@@ -10,5 +10,5 @@
 
 ![Profile views](https://gpvc.arturio.dev/Syskey-Alex)
 
-
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Syskey-Alex&theme=rogue)](https://github.com/Syskey-Alex/github-readme-activity-graph)
 
